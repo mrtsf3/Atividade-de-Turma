@@ -13,7 +13,7 @@ Atividade de Desenvolvimento de Software
 
 ### Email dos membros 
 
-*gfa3@cin.ufpe.br
 *ejns@cin.ufpe.br
-*mna3@cin.ufpe.br
+*gfa3@cin.ufpe.br
 *tsf3@cin.ufpe.br"
+*mna3@cin.ufpe.br
