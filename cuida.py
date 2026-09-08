@@ -8,3 +8,4 @@ palavras = [
 
 texto = " ".join(random.choices(palavras, k=50))
 print(texto)
+print(texto)
